@@ -20,9 +20,6 @@ public class StackExamples {
 
     stack.poll(); // removes the first element of the stack, or returns null if stack is empty
     System.out.println(stack);
-    stack.pop();
-    stack.pop();
-
   }
 
 }
